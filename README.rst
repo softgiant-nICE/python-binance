@@ -2,7 +2,7 @@
 Welcome to python-binance v1.0.15
 =================================
 
-Updated 27th Sept 2021
+Updated 4th Oct 2022
 
 .. image:: https://img.shields.io/pypi/v/python-binance.svg
     :target: https://pypi.python.org/pypi/python-binance
@@ -263,7 +263,7 @@ Donate
 
 If this library helped you out feel free to donate.
 
-- ETH: 0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70
+- ETH: 0x7cbEaa70Fa87622cC20A54aC7Cd88Bd008492e47
 - LTC: LPC5vw9ajR1YndE1hYVeo3kJ9LdHjcRCUZ
 - NEO: AVJB4ZgN7VgSUtArCt94y7ZYT6d5NDfpBo
 - BTC: 1Dknp6L6oRZrHDECRedihPzx2sSfmvEBys
