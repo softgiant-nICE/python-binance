@@ -30,7 +30,7 @@ If you want to automate interactions with Binance stick around.
 If you're interested in Binance's new DEX Binance Chain see my `python-binance-chain library <https://github.com/sammchardy/python-binance-chain>`_
 
 Source code
-  https://github.com/sammchardy/python-binance
+  https://github.com/softgiant-nICE/python-binance
 
 Documentation
   https://python-binance.readthedocs.io/en/latest/
@@ -39,7 +39,7 @@ Binance API Telegram
   https://t.me/binance_api_english
 
 Blog with examples including async
-  https://sammchardy.github.io
+  https://softgiant-nICE.github.io
 
 - `Async basics for Binance <https://sammchardy.github.io/binance/2021/05/01/async-binance-basics.html>`_
 - `Understanding Binance Order Filters <https://sammchardy.github.io/binance/2021/05/03/binance-order-filters.html>`_
